@@ -1,0 +1,4 @@
+# This file summarizes the entire appliance by listing each system in the order in which 
+# the systems will be deployed, including the name of the config file that defines each system.
+  
+custom-demo: acm-system-templates/custom-api-demo.yaml
