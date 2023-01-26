@@ -10,8 +10,8 @@ dependencies:
       - url: https://mirrors.edge.kernel.org/pub/software/scm/git/git-2.27.0.tar.sign
       - url: https://mirrors.edge.kernel.org/pub/software/scm/git/git-2.27.0.tar.xz
 source:
-  - instanceName: acm-custom-controller
-    repo: https://github.com/AgileCloudInstitute/acm-custom-controller.git
+  - instanceName: acm-custom-controller-api
+    repo: https://github.com/AgileCloudInstitute/acm-custom-controller-api.git
     branch: main
     public: true
   - instanceName: acm-system-templates
