@@ -19,5 +19,5 @@ source:
     public: false
   - instanceName: acm-system-templates
     repo: https://github.com/AgileCloudInstitute/acm-system-templates.git
-    branch: main
+    branch: dev
     public: true
