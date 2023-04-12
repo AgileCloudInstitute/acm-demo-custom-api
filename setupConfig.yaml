@@ -16,7 +16,7 @@ source:
     api: true
     setupScript: setupEnvironment.py
     shutdownScript: destroyEnvironment.py
-    public: false
+    public: true
   - instanceName: acm-system-templates
     repo: https://github.com/AgileCloudInstitute/acm-system-templates.git
     branch: dev
